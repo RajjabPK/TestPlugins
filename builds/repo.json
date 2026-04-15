@@ -1,0 +1,8 @@
+{
+  "name": "Rajjab Plugins",
+  "description": "My CloudStream plugins",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/RajjabPK/TestPlugins/main/builds/plugins.json"
+  ]
+}
