@@ -3,6 +3,6 @@
     "name": "ExampleProvider",
     "pluginClassName": "com.example.ExamplePlugin",
     "version": 1,
-    "url": "https://github.com/RajjabPK/TestPlugins/raw/refs/heads/master/builds/ExampleProvider.cs3"
+    "url": "https://raw.githubusercontent.com/RajjabPK/TestPlugins/master/builds/ExampleProvider.cs3"
   }
 ]
