@@ -4,6 +4,6 @@
     "pluginClassName": "com.example.ExamplePlugin",
     "version": 1,
     "language": "en",
-    "url": "https://raw.githubusercontent.com/RajjabPK/TestPlugins/main/builds/ExampleProvider.cs3"
+    "url": "https://github.com/RajjabPK/TestPlugins/raw/refs/heads/master/builds/ExampleProvider.cs3"
   }
 ]
